@@ -1,0 +1,387 @@
+[+] Containers:
+ |- [+] Container: /Game/levels/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:114EBFEB41C19BA63DDBFAAB566BB2B4 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1943450545 Label:Wall_no_top11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1798.045 Y=98.045 Z=700.000), Max=(X=1901.955 Y=201.955 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:139AF5F647A1013DF155FEBEEE3E83B2 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D192F501_1271790668 Label:Wall_no_top30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2198.045 Y=98.045 Z=1200.000), Max=(X=2301.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1D47508A4893FEBCE8B8F6AE68F01F5B BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D192F501_1271792669 Label:Spike10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.189 Y=50.189 Z=1100.378), Max=(X=2299.811 Y=149.811 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:230811C645131A1E70857B851ED08F2C BaseClass:/Game/Prefabs/Wall.Wall_C NativeClass:/Script/Engine.Actor Name:Wall_C_UAID_74563CC1D0D139F501_1533761913 Label:Wall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1.955 Y=98.045 Z=-212.467), Max=(X=101.955 Y=201.955 Z=11412.467) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:232A80554CB2CA312D2E85B99E5D2781 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18DF501_2041579741 Label:Wall_no_top15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2398.045 Y=98.045 Z=800.000), Max=(X=2501.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:269353034D40180D03484C8FD7C28170 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D12A1B3EDF501_1477647591 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=0.000 Z=-1000.000), Max=(X=5500.000 Y=300.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:286D1CF34F434EBE0717C4948041BC26 BaseClass:/Game/Prefabs/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_74563CC1D0D18DF501_1834173737 Label:Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1807.338 Y=126.148 Z=797.632), Max=(X=1892.662 Y=173.852 Z=906.368) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2B0F78824E759BF8C57CB69E6B905ADF BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1738762138 Label:Wall_no_top29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1198.045 Y=98.045 Z=1200.000), Max=(X=1301.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2E8D2B7B44398F192240FEAAD0739C1E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:2F280BBD45A15CFEA000D398336DF930 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18DF501_2037835739 Label:Wall_no_top13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2198.045 Y=98.045 Z=800.000), Max=(X=2301.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:36E15E4446872E925F4A8D8D0B04FAD3 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1260801927 Label:Spike7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.189 Y=100.189 Z=-0.000), Max=(X=2699.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3AC87A6F47081E3FECBC8F81B1900FDC BaseClass:/Game/Prefabs/SawBlade.SawBlade_C NativeClass:/Script/Engine.Actor Name:SawBlade_C_UAID_74563CC1D0D122F601_1402938969 Label:SawBlade SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1798.160 Y=125.360 Z=145.954), Max=(X=1901.840 Y=174.640 Z=249.954) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3C105717446B3DF71D3340A5C648B19C BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1949752945 Label:Wall_no_top22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1498.045 Y=98.045 Z=900.000), Max=(X=1601.955 Y=201.955 Z=1000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3EC59C2247F4CBE72E6E34B16755AA6D BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1612452133 Label:Wall_no_top24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=498.045 Y=98.045 Z=1200.000), Max=(X=601.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:41B5CE13460F66200755F99DD22A609A BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1489517938 Label:Wall_no_top19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2598.045 Y=98.045 Z=400.000), Max=(X=2701.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:47E4BBF74BFCBD7898B1FD87F9048F16 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1410038933 Label:Spike8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.189 Y=50.189 Z=1100.378), Max=(X=2099.811 Y=149.811 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:48F90C84413B916F9FAD09B4D2F017E3 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1403065932 Label:Wall_no_top16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1998.045 Y=98.045 Z=1200.000), Max=(X=2101.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4A622DD045C3C32218065AA24308B6CC BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1673478137 Label:Wall_no_top28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=298.045 Y=98.045 Z=1200.000), Max=(X=401.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4E50E11043AEB5089C5689AA8CF16D6F BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18CF501_1464499542 Label:JumpPad_Sideway2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=986.757 Y=97.223 Z=497.062), Max=(X=1021.243 Y=202.777 Z=602.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5483548C4E250365A46F23BFF99EE406 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1435080538 Label:Wall_no_top6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=700.000), Max=(X=1001.955 Y=201.955 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5BCEEAA94F74FC26BB01D8BAB3202E47 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1292242532 Label:Wall_no_top2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1398.045 Y=98.045 Z=100.000), Max=(X=1501.955 Y=201.955 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5D170B0047D837015AFF2F88DF19ACE7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_5 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3850.000 Y=-800.000 Z=-1550.000), Max=(X=6692.745 Y=-700.000 Z=4450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:621FE3964E25D2844729238439B160E9 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1253284924 Label:Spike4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.189 Y=100.189 Z=-0.000), Max=(X=2099.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:62C6845548156A24CA7DDFA68B7BC222 BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18EF501_2086711948 Label:JumpPad_Sideway3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2878.757 Y=97.223 Z=1397.062), Max=(X=2913.243 Y=202.777 Z=1502.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:64223D1A4B8D4E91721306BCB139C583 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:6870494D4AE23E7FE1A0FFA973699C90 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1297535533 Label:Wall_no_top3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1398.045 Y=98.045 Z=200.000), Max=(X=1501.955 Y=201.955 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A897EA0428EB8EBA080A9BD07CE70DD BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=141.464 Y=107.871 Z=0.013), Max=(X=221.464 Y=187.871 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:70CA6B8A43730A89013384B5641F3CC4 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1487678937 Label:Wall_no_top18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2698.045 Y=98.045 Z=400.000), Max=(X=2801.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:720179764EFE34ABB14F60B1E151F6B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-40960.000), Max=(X=1638400.000 Y=1638400.000 Z=40960.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:7422B209418177824F71A89E5D81000D BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1495210939 Label:Wall_no_top20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2498.045 Y=98.045 Z=400.000), Max=(X=2601.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:75A24FC942BAE863A42EDEA689B07149 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:771F54BC420CDAE6060986BCA5D72DBC BaseClass:/Game/Prefabs/JumpPad.JumpPad_C NativeClass:/Script/Engine.Actor Name:JumpPad_C_UAID_74563CC1D0D18EF501_1605792941 Label:JumpPad2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2100.223 Y=100.223 Z=498.000), Max=(X=2199.777 Y=199.777 Z=538.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:794514B64D6B770E202AA488CFE656E8 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1433481537 Label:Wall_no_top5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=500.000), Max=(X=1001.955 Y=201.955 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7F38F400461FA65B507BADB1398D1838 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1238347922 Label:Spike2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.189 Y=100.189 Z=-0.000), Max=(X=1899.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7FBE100C40F294E35C980691859521C1 BaseClass:/Game/Prefabs/Breakable_Block.Breakable_Block_C NativeClass:/Script/Engine.Actor Name:Breakable_Block_C_UAID_74563CC1D0D18EF501_2001932946 Label:Breakable_Block SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2098.045 Y=98.045 Z=800.000), Max=(X=2201.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:859DA8C6484CF4585D3180A6215CE2E7 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1313209929 Label:Wall_no_top7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2098.045 Y=98.045 Z=1200.000), Max=(X=2201.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8B3E6D864640F5515CC316970EE9D927 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1609818132 Label:Wall_no_top23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=798.045 Y=98.045 Z=1200.000), Max=(X=901.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8CCE1019435794B514DBBA95CC403D82 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1782835944 Label:Wall_no_top21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2098.045 Y=98.045 Z=400.000), Max=(X=2201.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8EBE74BD487032132B2F12B4B6A853CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CC1D0D11FF601_1955560428 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3850.000 Y=-800.000 Z=4450.000), Max=(X=6692.745 Y=-700.000 Z=10450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:963C8A04438ADEC6C7A6D7B7681EFBBA BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1257936926 Label:Spike6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2400.189 Y=100.189 Z=-0.000), Max=(X=2499.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A3A712C74E904F78F0301C8E259F3908 BaseClass:/Game/Prefabs/WarpPipe1.WarpPipe1_C NativeClass:/Script/Engine.Actor Name:WarpPipe1_C_UAID_74563CC1D0D11FF601_1708401427 Label:WarpPipe2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1120.000 Y=70.000 Z=0.000), Max=(X=2901.392 Y=230.000 Z=586.385) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A638AE8E4A96C1F9FE264588B0EAC280 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1618329136 Label:Wall_no_top27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=398.045 Y=98.045 Z=1200.000), Max=(X=501.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A679684449E0842C83D87FA0AA37157E BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1929763544 Label:Wall_no_top10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1498.045 Y=98.045 Z=600.000), Max=(X=1601.955 Y=201.955 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A93C934D4F15DEBBE6F2BC878DF00471 BaseClass:/Game/Prefabs/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_74563CC1D0D18FF501_1117297125 Label:Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2607.338 Y=126.148 Z=497.632), Max=(X=2692.662 Y=173.852 Z=606.368) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ABDE36EA4BD177D3932487AA2A24D832 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CC1D0D11FF601_1973374429 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3850.000 Y=-800.000 Z=10450.000), Max=(X=6692.745 Y=-700.000 Z=16450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:AC5690E84B0936C31B413EAC6E5DA70A BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18DF501_2039902740 Label:Wall_no_top14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2298.045 Y=98.045 Z=800.000), Max=(X=2401.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B614D00A4EE9F48215620284E68DB40E BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-250.000), Max=(X=200.000 Y=200.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:B70A02C24B8BADD76123B6836CC77B18 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:BA691D30428E9432F6DA38AF9D697B1A BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:BB6814394BF725DA695B0AB46E1385C9 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1613846134 Label:Wall_no_top25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=1200.000), Max=(X=1001.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BC9201314C076DA0A97FF69896F8F2B9 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1426016934 Label:Spike9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2100.189 Y=50.189 Z=1100.378), Max=(X=2199.811 Y=149.811 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BF0B76824EADC8CF6251CF9C4AA972F6 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1254831925 Label:Spike5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.189 Y=100.189 Z=-0.000), Max=(X=2299.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C492F2094266C585BCC56CB0C0111BA6 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:CA192BB2437ED0279B5C0FAD7A47D0A7 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1248960923 Label:Spike3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1600.189 Y=100.189 Z=-0.000), Max=(X=1699.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D0DF58AA4956AD2D2B2486B791D35D4B BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1418034536 Label:Wall_no_top4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=600.000), Max=(X=1001.955 Y=201.955 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D28A8294449A9C26AFCF40A781F3AA0F BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1525619127 Label:Wall_no_top12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2298.045 Y=98.045 Z=1300.000), Max=(X=2401.955 Y=201.955 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D54B468F4EA39DD52E6944989D273031 BaseClass:/Game/Prefabs/JumpPad.JumpPad_C NativeClass:/Script/Engine.Actor Name:JumpPad_C_UAID_74563CC1D0D18EF501_2051515947 Label:JumpPad3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.223 Y=100.223 Z=998.000), Max=(X=1599.777 Y=199.777 Z=1038.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D91224B7496BBFA0249B7C9CF3B2C10E BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1615908135 Label:Wall_no_top26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=998.045 Y=98.045 Z=1200.000), Max=(X=1101.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D9F3B4C64A69CF342BFB959382450EAE BaseClass:/Game/Prefabs/JumpPad.JumpPad_C NativeClass:/Script/Engine.Actor Name:JumpPad_C_UAID_74563CC1D0D18DF501_2051269742 Label:JumpPad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2400.223 Y=100.223 Z=898.000), Max=(X=2499.777 Y=199.777 Z=938.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E403C35B414788AF0D75CC9750CE92B7 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1284244531 Label:Wall_no_top SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1398.045 Y=98.045 Z=0.000), Max=(X=1501.955 Y=201.955 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E4F54E8F4ABD4879777860B0CEEFB255 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1314947930 Label:Wall_no_top8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2298.045 Y=98.045 Z=1200.000), Max=(X=2401.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E87393BD483DF5991DB3ECA2440BC3F4 BaseClass:/Game/Prefabs/Wall.Wall_C NativeClass:/Script/Engine.Actor Name:Wall_C_UAID_74563CC1D0D13AF501_1591445090 Label:Wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2898.045 Y=98.045 Z=-212.467), Max=(X=3001.955 Y=201.955 Z=11412.467) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E9C3D4374B1673D33FF9A8B48BE3C797 BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18CF501_1306831534 Label:JumpPad_Sideway SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1378.757 Y=97.223 Z=97.062), Max=(X=1413.243 Y=202.777 Z=202.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F07FA2DB4F797F737CB464814638DB53 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_74563CC1D0D137F501_1717547560 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.922 Y=4843.325 Z=739.227), Max=(X=1478.922 Y=4843.325 Z=739.227) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F37D6B2740ED643A5EBCC7BA0C14543E BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1403063931 Label:Wall_no_top9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1898.045 Y=98.045 Z=1200.000), Max=(X=2001.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F3AAB5C34B99F2722A686CB1C861DDB4 BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18FF501_1802877139 Label:JumpPad_Sideway4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2278.757 Y=97.223 Z=1297.062), Max=(X=2313.243 Y=202.777 Z=1402.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F5E06C944EC75202AB08FBB589C88E44 BaseClass:/Game/Prefabs/WarpPipe1.WarpPipe1_C NativeClass:/Script/Engine.Actor Name:WarpPipe1_C_UAID_74563CC1D0D11FF601_1518702426 Label:WarpPipe1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1297.813 Y=70.000 Z=13.615), Max=(X=2780.000 Y=230.000 Z=740.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FD2DDB124AB050C972DF93A275F76F97 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1484335936 Label:Wall_no_top17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2798.045 Y=98.045 Z=400.000), Max=(X=2901.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:114EBFEB41C19BA63DDBFAAB566BB2B4 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1943450545 Label:Wall_no_top11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1798.045 Y=98.045 Z=700.000), Max=(X=1901.955 Y=201.955 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:139AF5F647A1013DF155FEBEEE3E83B2 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D192F501_1271790668 Label:Wall_no_top30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2198.045 Y=98.045 Z=1200.000), Max=(X=2301.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1D47508A4893FEBCE8B8F6AE68F01F5B BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D192F501_1271792669 Label:Spike10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.189 Y=50.189 Z=1100.378), Max=(X=2299.811 Y=149.811 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:230811C645131A1E70857B851ED08F2C BaseClass:/Game/Prefabs/Wall.Wall_C NativeClass:/Script/Engine.Actor Name:Wall_C_UAID_74563CC1D0D139F501_1533761913 Label:Wall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1.955 Y=98.045 Z=-212.467), Max=(X=101.955 Y=201.955 Z=11412.467) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:232A80554CB2CA312D2E85B99E5D2781 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18DF501_2041579741 Label:Wall_no_top15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2398.045 Y=98.045 Z=800.000), Max=(X=2501.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:269353034D40180D03484C8FD7C28170 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D12A1B3EDF501_1477647591 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=0.000 Z=-1000.000), Max=(X=5500.000 Y=300.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:286D1CF34F434EBE0717C4948041BC26 BaseClass:/Game/Prefabs/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_74563CC1D0D18DF501_1834173737 Label:Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1807.338 Y=126.148 Z=797.632), Max=(X=1892.662 Y=173.852 Z=906.368) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:2B0F78824E759BF8C57CB69E6B905ADF BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1738762138 Label:Wall_no_top29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1198.045 Y=98.045 Z=1200.000), Max=(X=1301.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:2E8D2B7B44398F192240FEAAD0739C1E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:2F280BBD45A15CFEA000D398336DF930 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18DF501_2037835739 Label:Wall_no_top13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2198.045 Y=98.045 Z=800.000), Max=(X=2301.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:36E15E4446872E925F4A8D8D0B04FAD3 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1260801927 Label:Spike7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.189 Y=100.189 Z=-0.000), Max=(X=2699.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:3AC87A6F47081E3FECBC8F81B1900FDC BaseClass:/Game/Prefabs/SawBlade.SawBlade_C NativeClass:/Script/Engine.Actor Name:SawBlade_C_UAID_74563CC1D0D122F601_1402938969 Label:SawBlade SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1798.160 Y=125.360 Z=145.954), Max=(X=1901.840 Y=174.640 Z=249.954) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:3C105717446B3DF71D3340A5C648B19C BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1949752945 Label:Wall_no_top22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1498.045 Y=98.045 Z=900.000), Max=(X=1601.955 Y=201.955 Z=1000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:3EC59C2247F4CBE72E6E34B16755AA6D BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1612452133 Label:Wall_no_top24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=498.045 Y=98.045 Z=1200.000), Max=(X=601.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:41B5CE13460F66200755F99DD22A609A BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1489517938 Label:Wall_no_top19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2598.045 Y=98.045 Z=400.000), Max=(X=2701.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:47E4BBF74BFCBD7898B1FD87F9048F16 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1410038933 Label:Spike8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.189 Y=50.189 Z=1100.378), Max=(X=2099.811 Y=149.811 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:48F90C84413B916F9FAD09B4D2F017E3 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1403065932 Label:Wall_no_top16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1998.045 Y=98.045 Z=1200.000), Max=(X=2101.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:4A622DD045C3C32218065AA24308B6CC BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1673478137 Label:Wall_no_top28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=298.045 Y=98.045 Z=1200.000), Max=(X=401.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:4E50E11043AEB5089C5689AA8CF16D6F BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18CF501_1464499542 Label:JumpPad_Sideway2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=986.757 Y=97.223 Z=497.062), Max=(X=1021.243 Y=202.777 Z=602.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:5483548C4E250365A46F23BFF99EE406 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1435080538 Label:Wall_no_top6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=700.000), Max=(X=1001.955 Y=201.955 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:5BCEEAA94F74FC26BB01D8BAB3202E47 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1292242532 Label:Wall_no_top2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1398.045 Y=98.045 Z=100.000), Max=(X=1501.955 Y=201.955 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:5D170B0047D837015AFF2F88DF19ACE7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_5 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3850.000 Y=-800.000 Z=-1550.000), Max=(X=6692.745 Y=-700.000 Z=4450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:621FE3964E25D2844729238439B160E9 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1253284924 Label:Spike4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.189 Y=100.189 Z=-0.000), Max=(X=2099.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:62C6845548156A24CA7DDFA68B7BC222 BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18EF501_2086711948 Label:JumpPad_Sideway3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2878.757 Y=97.223 Z=1397.062), Max=(X=2913.243 Y=202.777 Z=1502.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:64223D1A4B8D4E91721306BCB139C583 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:6870494D4AE23E7FE1A0FFA973699C90 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1297535533 Label:Wall_no_top3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1398.045 Y=98.045 Z=200.000), Max=(X=1501.955 Y=201.955 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:6A897EA0428EB8EBA080A9BD07CE70DD BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=141.464 Y=107.871 Z=0.013), Max=(X=221.464 Y=187.871 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:70CA6B8A43730A89013384B5641F3CC4 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1487678937 Label:Wall_no_top18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2698.045 Y=98.045 Z=400.000), Max=(X=2801.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:720179764EFE34ABB14F60B1E151F6B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-40960.000), Max=(X=1638400.000 Y=1638400.000 Z=40960.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:7422B209418177824F71A89E5D81000D BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1495210939 Label:Wall_no_top20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2498.045 Y=98.045 Z=400.000), Max=(X=2601.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:75A24FC942BAE863A42EDEA689B07149 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:771F54BC420CDAE6060986BCA5D72DBC BaseClass:/Game/Prefabs/JumpPad.JumpPad_C NativeClass:/Script/Engine.Actor Name:JumpPad_C_UAID_74563CC1D0D18EF501_1605792941 Label:JumpPad2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2100.223 Y=100.223 Z=498.000), Max=(X=2199.777 Y=199.777 Z=538.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:794514B64D6B770E202AA488CFE656E8 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1433481537 Label:Wall_no_top5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=500.000), Max=(X=1001.955 Y=201.955 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:7F38F400461FA65B507BADB1398D1838 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1238347922 Label:Spike2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.189 Y=100.189 Z=-0.000), Max=(X=1899.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:7FBE100C40F294E35C980691859521C1 BaseClass:/Game/Prefabs/Breakable_Block.Breakable_Block_C NativeClass:/Script/Engine.Actor Name:Breakable_Block_C_UAID_74563CC1D0D18EF501_2001932946 Label:Breakable_Block SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2098.045 Y=98.045 Z=800.000), Max=(X=2201.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:859DA8C6484CF4585D3180A6215CE2E7 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1313209929 Label:Wall_no_top7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2098.045 Y=98.045 Z=1200.000), Max=(X=2201.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:8B3E6D864640F5515CC316970EE9D927 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1609818132 Label:Wall_no_top23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=798.045 Y=98.045 Z=1200.000), Max=(X=901.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:8CCE1019435794B514DBBA95CC403D82 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1782835944 Label:Wall_no_top21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2098.045 Y=98.045 Z=400.000), Max=(X=2201.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:8EBE74BD487032132B2F12B4B6A853CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CC1D0D11FF601_1955560428 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3850.000 Y=-800.000 Z=4450.000), Max=(X=6692.745 Y=-700.000 Z=10450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:963C8A04438ADEC6C7A6D7B7681EFBBA BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1257936926 Label:Spike6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2400.189 Y=100.189 Z=-0.000), Max=(X=2499.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:A3A712C74E904F78F0301C8E259F3908 BaseClass:/Game/Prefabs/WarpPipe1.WarpPipe1_C NativeClass:/Script/Engine.Actor Name:WarpPipe1_C_UAID_74563CC1D0D11FF601_1708401427 Label:WarpPipe2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1120.000 Y=70.000 Z=0.000), Max=(X=2901.392 Y=230.000 Z=586.385) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:A638AE8E4A96C1F9FE264588B0EAC280 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1618329136 Label:Wall_no_top27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=398.045 Y=98.045 Z=1200.000), Max=(X=501.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:A679684449E0842C83D87FA0AA37157E BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1929763544 Label:Wall_no_top10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1498.045 Y=98.045 Z=600.000), Max=(X=1601.955 Y=201.955 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:A93C934D4F15DEBBE6F2BC878DF00471 BaseClass:/Game/Prefabs/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_74563CC1D0D18FF501_1117297125 Label:Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2607.338 Y=126.148 Z=497.632), Max=(X=2692.662 Y=173.852 Z=606.368) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:ABDE36EA4BD177D3932487AA2A24D832 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CC1D0D11FF601_1973374429 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3850.000 Y=-800.000 Z=10450.000), Max=(X=6692.745 Y=-700.000 Z=16450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:AC5690E84B0936C31B413EAC6E5DA70A BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18DF501_2039902740 Label:Wall_no_top14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2298.045 Y=98.045 Z=800.000), Max=(X=2401.955 Y=201.955 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:B614D00A4EE9F48215620284E68DB40E BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-250.000), Max=(X=200.000 Y=200.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:B70A02C24B8BADD76123B6836CC77B18 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:BA691D30428E9432F6DA38AF9D697B1A BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:BB6814394BF725DA695B0AB46E1385C9 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1613846134 Label:Wall_no_top25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=1200.000), Max=(X=1001.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:BC9201314C076DA0A97FF69896F8F2B9 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1426016934 Label:Spike9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2100.189 Y=50.189 Z=1100.378), Max=(X=2199.811 Y=149.811 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:BF0B76824EADC8CF6251CF9C4AA972F6 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1254831925 Label:Spike5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.189 Y=100.189 Z=-0.000), Max=(X=2299.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:C492F2094266C585BCC56CB0C0111BA6 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:CA192BB2437ED0279B5C0FAD7A47D0A7 BaseClass:/Game/Prefabs/Spike.Spike_C NativeClass:/Script/Engine.Actor Name:Spike_C_UAID_74563CC1D0D18EF501_1248960923 Label:Spike3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1600.189 Y=100.189 Z=-0.000), Max=(X=1699.811 Y=199.811 Z=99.622) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:D0DF58AA4956AD2D2B2486B791D35D4B BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1418034536 Label:Wall_no_top4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.045 Y=98.045 Z=600.000), Max=(X=1001.955 Y=201.955 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:D28A8294449A9C26AFCF40A781F3AA0F BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1525619127 Label:Wall_no_top12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2298.045 Y=98.045 Z=1300.000), Max=(X=2401.955 Y=201.955 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:D54B468F4EA39DD52E6944989D273031 BaseClass:/Game/Prefabs/JumpPad.JumpPad_C NativeClass:/Script/Engine.Actor Name:JumpPad_C_UAID_74563CC1D0D18EF501_2051515947 Label:JumpPad3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.223 Y=100.223 Z=998.000), Max=(X=1599.777 Y=199.777 Z=1038.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:D91224B7496BBFA0249B7C9CF3B2C10E BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18FF501_1615908135 Label:Wall_no_top26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=998.045 Y=98.045 Z=1200.000), Max=(X=1101.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:D9F3B4C64A69CF342BFB959382450EAE BaseClass:/Game/Prefabs/JumpPad.JumpPad_C NativeClass:/Script/Engine.Actor Name:JumpPad_C_UAID_74563CC1D0D18DF501_2051269742 Label:JumpPad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2400.223 Y=100.223 Z=898.000), Max=(X=2499.777 Y=199.777 Z=938.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:E403C35B414788AF0D75CC9750CE92B7 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18CF501_1284244531 Label:Wall_no_top SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1398.045 Y=98.045 Z=0.000), Max=(X=1501.955 Y=201.955 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:E4F54E8F4ABD4879777860B0CEEFB255 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1314947930 Label:Wall_no_top8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2298.045 Y=98.045 Z=1200.000), Max=(X=2401.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:E87393BD483DF5991DB3ECA2440BC3F4 BaseClass:/Game/Prefabs/Wall.Wall_C NativeClass:/Script/Engine.Actor Name:Wall_C_UAID_74563CC1D0D13AF501_1591445090 Label:Wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2898.045 Y=98.045 Z=-212.467), Max=(X=3001.955 Y=201.955 Z=11412.467) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:E9C3D4374B1673D33FF9A8B48BE3C797 BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18CF501_1306831534 Label:JumpPad_Sideway SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1378.757 Y=97.223 Z=97.062), Max=(X=1413.243 Y=202.777 Z=202.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:F07FA2DB4F797F737CB464814638DB53 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_74563CC1D0D137F501_1717547560 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.922 Y=4843.325 Z=739.227), Max=(X=1478.922 Y=4843.325 Z=739.227) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:F37D6B2740ED643A5EBCC7BA0C14543E BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1403063931 Label:Wall_no_top9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1898.045 Y=98.045 Z=1200.000), Max=(X=2001.955 Y=201.955 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:F3AAB5C34B99F2722A686CB1C861DDB4 BaseClass:/Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C NativeClass:/Script/Engine.Actor Name:JumpPad_Sideway_C_UAID_74563CC1D0D18FF501_1802877139 Label:JumpPad_Sideway4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2278.757 Y=97.223 Z=1297.062), Max=(X=2313.243 Y=202.777 Z=1402.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:F5E06C944EC75202AB08FBB589C88E44 BaseClass:/Game/Prefabs/WarpPipe1.WarpPipe1_C NativeClass:/Script/Engine.Actor Name:WarpPipe1_C_UAID_74563CC1D0D11FF601_1518702426 Label:WarpPipe1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1297.813 Y=70.000 Z=13.615), Max=(X=2780.000 Y=230.000 Z=740.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:FD2DDB124AB050C972DF93A275F76F97 BaseClass:/Game/Prefabs/Wall_no_top.Wall_no_top_C NativeClass:/Script/Engine.Actor Name:Wall_no_top_C_UAID_74563CC1D0D18EF501_1484335936 Label:Wall_no_top17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2798.045 Y=98.045 Z=400.000), Max=(X=2901.955 Y=201.955 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/levels/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 75 
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/levels/ThirdPersonMap
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Breakable_Block_C_UAID_74563CC1D0D18EF501_2001932946
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/MV/CRG4ULE0B6TH82PGGF33GU
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/levels/ThirdPersonMap
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CameraActor_UAID_74563CC1D0D137F501_1717547560
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/1U/1LT0O6LZ5V2NM8C38YYJUK
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_74563CC1D0D18DF501_1834173737
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/D/TF/238CAOUJWVHD36JVKU7LGX
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_74563CC1D0D18FF501_1117297125
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/FY/R1K7BEQNHAB9MJ1XT4KFMZ
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/levels/ThirdPersonMap
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/V9/BYH69AFYYG9T7UJD7G4QBZ
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/7/LZ/J44H2651PHWH0JKYCS0IB4
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/levels/ThirdPersonMap
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JumpPad_C_UAID_74563CC1D0D18DF501_2051269742
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/5/HS/CU66TSCP29KOY3CGFDJD45
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JumpPad_C_UAID_74563CC1D0D18EF501_1605792941
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/0/XB/Q241KGJTPOUS4B0TLME2ZP
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JumpPad_C_UAID_74563CC1D0D18EF501_2051515947
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/1T/JIZWU8YMV8WHYQEJ39N1W6
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JumpPad_Sideway_C_UAID_74563CC1D0D18CF501_1306831534
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/8/XB/G5WHU9BXP9P6H14C3GJ146
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JumpPad_Sideway_C_UAID_74563CC1D0D18CF501_1464499542
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/A3/JEJABDWUPFOJZ8E8MVN1S2
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JumpPad_Sideway_C_UAID_74563CC1D0D18EF501_2086711948
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/A/DQ/WLG5B0TTGHMPKGW5VR5BWO
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JumpPad_Sideway_C_UAID_74563CC1D0D18FF501_1802877139
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/5/HD/IAEELJQJ46AD231OGM2JMF
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/2/V2/0V1QKBK7J3HLG09WKOVS9N
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/2/PJ/P4IIXKLU8BE73LXE2KZ9DF
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SawBlade_C_UAID_74563CC1D0D122F601_1402938969
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/D/XA/DU01MBG7MWIDLYC27B6M2A
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/2/7O/C11A50URBLKOL7OZR6ML1U
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/7/JN/K6MB6AUNKVOQU9A8H97M2I
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1238347922
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/4/JJ/6LGVCN8KJKGLR0N08TS7CT
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1248960923
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/2/UW/KOKYZ336D72AOX1MBTV95U
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1253284924
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/A/HM/J9AR41JEY1JR0R7SIARCGH
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1254831925
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/C/TB/RPLPAH4GO9NVI206UFJDI3
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1257936926
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/TF/O4M6GJC6QDMIHE06TXGV1J
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1260801927
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/E/3G/L0KBK2X75C5XUEPUJX819H
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1410038933
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/4/LG/04INNTESWGZQ8DTCHPLN3V
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D18EF501_1426016934
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/TG/KLRDOQ9M8AF53XCI5NYKS4
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Spike_C_UAID_74563CC1D0D192F501_1271792669
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/E/6P/GDA7D78NFSD6EJAQBSQ8IC
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/2/C7/OUV0XMPI9GN079GCWUY6VZ
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D12A1B3EDF501_1477647591
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/0/6W/6M91G29JBSYQMGFIUB0OO4
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74563CC1D0D11FF601_1955560428
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/HA/WRJF7H1VAKB4XJUZ7UEJNT
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74563CC1D0D11FF601_1973374429
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/C/DD/7JR7XEFA0875QJPHZ2CF9O
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/AG/IJ5QIVYL5VO4WDLY0RQ92H
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_1
+ |- Actor Package: /Game/levels/ThirdPersonMap
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/E/91/68QJO5ZG9MP1UDY8E0I9SP
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_C_UAID_74563CC1D0D139F501_1533761913
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/D/UP/U397S7SL1NSAV297XEOS1V
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_C_UAID_74563CC1D0D13AF501_1591445090
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/4/MX/QSDFS6LUPXHLVMJ5LUMS9D
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1284244531
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/0/7A/BZVR7RGJ24IYCTE0IRWEHN
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1292242532
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/F/0X/TTXCU8IU76TOQKI903G7RI
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1297535533
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/4/0P/51VXPHE41P9JXPP4EYZ81Z
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1418034536
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/3/DK/YPL7AKBSRQX0J5IH8B50C2
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1433481537
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/XT/N8LZ5VYB04RQ0A8I2Q8B21
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1435080538
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/D/M2/34DHENZ6WDK08CLSN6KX3V
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1929763544
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/0/3X/9IFWS8BXTGV3JLNCDY45D4
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18CF501_1943450545
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/1/ZA/UAIEP8GFYIZ1Z91L8DVSHN
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18DF501_2037835739
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/B/IT/CNZG8T5UUY31EW7J14QR5A
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18DF501_2039902740
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/C/D2/QSG4IRYSBVY635VVGE0AK9
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18DF501_2041579741
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/5/NK/R7J5CM0B3X8BE8QUJKFNYE
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1313209929
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/PR/BJEH7H20191OYCY46CF7TM
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1314947930
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/5/V3/GO0JXVEDLQ24W2KB425YTH
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1403063931
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/ID/MI43AV4FK5TKROY3ZU35FF
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1403065932
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/4/PR/AXSQMT5LRC8BVGJ9IT3T94
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1484335936
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/A/EA/WUUK2OXQB410DU2XHOJQE1
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1487678937
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/2/0J/I73MC3DLZP2WH1IVM019F0
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1489517938
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/5S/3MQHJMGK8YTVNZB9PVK16W
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1495210939
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/0/KG/TWZOU5UW1FG9XUV7495WAV
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1782835944
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/SE/6ABF6ZRO818RYP17CZNW35
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18EF501_1949752945
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/X2/6A6B8HD8NZV0RUNV9H6XSV
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1525619127
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/3/EB/XQDUYKK1VU5ITIBEWEBPO9
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1609818132
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/B/07/7M3S1U9ZWFVI77OE9KIJCJ
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1612452133
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/1/04/A0HNYBZVUCYLV7OKPMHKFX
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1613846134
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/MB/1R9VT0968G8P16UIF7B5TT
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1615908135
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/D/PT/3TF83BVA4SD1I7NM8CVOQ1
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1618329136
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/D/0D/ZXKD0K3SG1S4UVXPLJRL04
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1673478137
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/6/5C/VEDUMQXYQNGO0VQGRE13JX
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D18FF501_1738762138
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/OP/BHYONQRWZT4S0NEAWRJACQ
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Wall_no_top_C_UAID_74563CC1D0D192F501_1271790668
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/7/GJ/K033Y0S403H5RY64YBKI82
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WarpPipe1_C_UAID_74563CC1D0D11FF601_1518702426
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/B/UJ/KQ3BZRE3R424XWP7OZ43UM
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WarpPipe1_C_UAID_74563CC1D0D11FF601_1708401427
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/MH/EO4AVIDFHODGOKK2M934VP
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/9/PJ/UL3AD6AD828D5V7Z4E0QKW
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/levels/ThirdPersonMap
+ |- Actor Path: /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/levels/ThirdPersonMap/C/H0/C4C26DCS7FVYHUP33HDP5S
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
